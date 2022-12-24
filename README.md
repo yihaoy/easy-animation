@@ -1,9 +1,10 @@
 # easy-animation
 *A simple 2D animation player (built in Java)*
 
-**Project Description.** The project is intended for learning and practicing CS concepts/topics, which includes (but not limited to) object-oriented design, MVC architecture, testing, GUI etc. 
+**Project Description.** The project is designed a 2D animation using Java to allow users to animate the motions in texts and change animations; implemented object-oriented design, Swing and the Model View Controller pattern for easy maintainability.
 
 ![niht](night.gif)
+![big-bang-big-crunch](big-bang-big-crunch.gif)
 
 **Feature.** Animations can be played in 4 modes: 
 1) *visual* - a straightforward visual play
